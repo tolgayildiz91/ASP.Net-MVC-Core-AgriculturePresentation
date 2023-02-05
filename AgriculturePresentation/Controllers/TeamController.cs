@@ -79,7 +79,6 @@ namespace AgriculturePresentation.Controllers
                 foreach (var item in result.Errors)
                 {
                     ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
-
                 }
             }
             return View();

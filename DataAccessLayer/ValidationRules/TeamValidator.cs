@@ -20,7 +20,5 @@ namespace DataAccessLayer.ValidationRules
             RuleFor(x=>x.Title).MaximumLength(50).WithMessage("Lütfen 50 Karakterden Daha Az Veri Girişi Yapın");
             RuleFor(x => x.Title).MinimumLength(5).WithMessage("Lütfen En Az 3 Karakter Bilgi Girişi Yapın");
         }
-
-
     }
 }
