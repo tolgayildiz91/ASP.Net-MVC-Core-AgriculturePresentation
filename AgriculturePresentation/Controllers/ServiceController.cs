@@ -69,9 +69,6 @@ namespace AgriculturePresentation.Controllers
 
         }
 
-        public IActionResult Deneme()
-        {
-            return View();
-        }
+
     }
 }
