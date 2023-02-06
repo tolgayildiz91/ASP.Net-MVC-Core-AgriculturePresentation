@@ -885,6 +885,242 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\chocolat.css",
+      "PackagePath": "staticwebassets\\web\\css\\chocolat.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\common.css",
+      "PackagePath": "staticwebassets\\web\\css\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\arr.png",
+      "PackagePath": "staticwebassets\\web\\images\\arr.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c1.png",
+      "PackagePath": "staticwebassets\\web\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c2.png",
+      "PackagePath": "staticwebassets\\web\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c3.png",
+      "PackagePath": "staticwebassets\\web\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\close.png",
+      "PackagePath": "staticwebassets\\web\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\left1.png",
+      "PackagePath": "staticwebassets\\web\\images\\left1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\right1.png",
+      "PackagePath": "staticwebassets\\web\\images\\right1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.chocolat.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.picEyes.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\main.js",
+      "PackagePath": "staticwebassets\\web\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tolga\\source\\repos\\BilgeAdamBen\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AgriculturePresentation.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
