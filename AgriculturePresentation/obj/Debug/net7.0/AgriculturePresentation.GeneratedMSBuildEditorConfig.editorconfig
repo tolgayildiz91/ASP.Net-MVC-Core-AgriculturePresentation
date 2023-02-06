@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Tolga\source\repos\BilgeAdamBen\AgriculturePresentation\AgriculturePresentation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Adress/EditAdress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzXEVkaXRBZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Adress/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Announcements/AddAnnouncement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xBZGRBbm5vdW5jZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
