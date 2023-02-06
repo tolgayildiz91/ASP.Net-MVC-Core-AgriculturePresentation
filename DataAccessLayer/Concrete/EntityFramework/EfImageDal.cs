@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete.EntityFramework
 {
-    internal class EfImageDal : GenericRepository<Image>, IImageDal
+    public class EfImageDal : GenericRepository<Image>, IImageDal
     {
     }
 }

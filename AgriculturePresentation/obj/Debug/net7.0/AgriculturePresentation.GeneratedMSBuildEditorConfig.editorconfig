@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Tolga\source\repos\BilgeAdamBen\AgriculturePresentation\AgriculturePresentation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Announcements/AddAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xBZGRBbm5vdW5jZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Announcements/EditAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xFZGl0QW5ub3VuY2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Announcements/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,12 +40,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Service/AddService.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGRTZXJ2aWNlLmNzaHRtbA==
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Image/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Service/Deneme.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxEZW5lbWUuY3NodG1s
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Service/AddService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGRTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Service/EditService.cshtml]
