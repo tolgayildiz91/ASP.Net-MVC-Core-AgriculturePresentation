@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.ValidationRules
+namespace BusinessLayer.ValidationRules
 {
     public class TeamValidator : AbstractValidator<Team>
     {
