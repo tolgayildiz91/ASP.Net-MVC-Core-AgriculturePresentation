@@ -25,6 +25,9 @@ builder.Services.AddScoped<IImageDal, EfImageDal>();
 builder.Services.AddScoped<IAdressService, AdressManager>();
 builder.Services.AddScoped<IAdressDal, EfAdressDal>();
 
+builder.Services.AddScoped<IContactService, ContactManager>();
+builder.Services.AddScoped<IContactDal, EfContactDal>();
+
 
 builder.Services.AddDbContext<AgricultureContext>();
 
