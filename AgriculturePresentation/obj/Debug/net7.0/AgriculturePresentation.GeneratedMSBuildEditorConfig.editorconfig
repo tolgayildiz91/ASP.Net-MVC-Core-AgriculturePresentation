@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Tolga\source\repos\BilgeAdamBen\AgriculturePresentation\AgriculturePresentation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsU2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Tolga/source/repos/BilgeAdamBen/AgriculturePresentation/AgriculturePresentation/Views/Adress/EditAdress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzXEVkaXRBZHJlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
