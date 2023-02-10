@@ -19,11 +19,12 @@ namespace DataAccessLayer.Contexts
         public DbSet<Team> Teams { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<About> Abouts { get; set; }
+		public DbSet<Admin> Admins { get; set; }
 
 
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("server=MONSTER; database=AgricultureDB;integrated security=true;TrustServerCertificate=True");
             base.OnConfiguring(optionsBuilder);
