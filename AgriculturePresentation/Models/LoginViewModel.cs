@@ -1,4 +1,6 @@
-﻿namespace AgriculturePresentation.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AgriculturePresentation.Models;
 
 public class LoginViewModel
 {
