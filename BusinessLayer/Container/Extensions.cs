@@ -35,6 +35,7 @@ namespace BusinessLayer.Container
             services.AddScoped<IAdminService, AdminManager>();
             services.AddScoped<IAdminDal, EfAdminDal>();
 
+
         }
 
     }
